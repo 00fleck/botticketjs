@@ -1,1 +1,3 @@
-# botticketjs
+# Bot de Ticket em .js.
+
+      NÃO FOI FEITO POR MIM EU APENAS ESTOU DISPONIBILIZANDO ELE PARA QUEM QUISER USAR.
